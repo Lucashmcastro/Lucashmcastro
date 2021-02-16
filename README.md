@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Lucashmcastro/Lucashmcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <header id="header">
 				<h1>Lucas Horta Monteiro de Castro </h1>
 				<nav>
