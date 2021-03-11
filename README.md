@@ -6,3 +6,16 @@
 
 ### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lucashmcastro/)
+[![GitHub](https://img.shields.io/badge/github-%23100000.svg)](https://www.linkedin.com/in/lucashmcastro/)
+
+<p align="center">
+    <a href="https://github.com/teteusAraujo">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Lucashmcastro">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/mateusaraujobarros">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/lucashmcastro/">
+    </a>
+</p>
+
+<p align="center"> 
