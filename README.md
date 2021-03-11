@@ -5,8 +5,6 @@
 - 💬 Available for Freelance projects/internship opportunities.
 
 ### 📫 Reach me at 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lucashmcastro/)
-[![GitHub](https://img.shields.io/badge/github-%23100000.svg)](https://www.linkedin.com/in/lucashmcastro/)
 
 <p align="center">
     <a href="https://github.com/Lucashmcastro">
