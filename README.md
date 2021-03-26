@@ -4,6 +4,11 @@
 - 😄 I’m currently learning Front-End Development.   
 - 💬 Available for Freelance projects/internship opportunities.
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Lucashmcastro&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/Lucashmcastro/github-readme-stats)
+
+
+
+
 ### 📫 Reach me at 
 
 <p align="center">
